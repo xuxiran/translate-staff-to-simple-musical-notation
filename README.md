@@ -8,18 +8,24 @@
 然后，运行score_recognition_v4文件中的main.py
 
 调性识别一般不是很准确，但是可以手工改正。
+
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/d3942552-a038-47eb-9981-65222f30ac94)
+
 
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/17f00619-efe9-43e5-9e5d-0572b9f34854)
 
 如果和想要的调性不一样，就直接输入即可，例如：
+
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/2517bfd2-b1fd-4660-8a77-8214438c03d3)
 
 
 
 谱号识别稍微好一点，但是也可能错误。认真核实。
+
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/2f46b10b-5a36-4491-bca8-07fd4832cf35)
+
 8是高音谱号，9是低音谱号。如果需要修改也是一样的。
+
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/d4e6ba36-c94e-437f-9a15-685101cd5bfc)
 
 
