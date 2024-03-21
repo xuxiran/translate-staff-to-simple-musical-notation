@@ -1,6 +1,6 @@
 作者：XuXiran YingJiahe
 
-如何配环境问小应。他正在努力做一个可以直接exe运行而不用装包的版本
+配置环境请见《配环境教程》
 首先，将原来的五线谱放在文件目录外。（input.pdf）
 
 ![image](https://github.com/xuxiran/translate-staff-to-simple-musical-notation/assets/48015859/993b270f-4fa3-4681-92ec-57ca08be6d4c)
